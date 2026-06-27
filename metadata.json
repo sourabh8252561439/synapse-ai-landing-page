@@ -1,0 +1,6 @@
+{
+  "name": "AI Automation Platform",
+  "description": "A premium landing page for a modern, high-growth AI automation and workflow SaaS startup, complete with interactive dashboards, features, and pricing engines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
