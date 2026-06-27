@@ -20,7 +20,10 @@ https://synapse-ai-saas-landing-page.vercel.app/
 - CSS3
 
 ## 💼 Purpose
-This project demonstrates a production-level SaaS landing page designed for AI and automation startups, focusing on modern UI design, scalability, and conversion optimization.
+Designed and developed a production-level SaaS landing page for AI and automation startups. The focus is on modern UI design, performance, scalability, and conversion-driven user experience.
 
-## 📱 Responsive
+## 📱 Responsive Design
 Fully optimized for mobile, tablet, and desktop devices.
+
+## 🔥 Deployment
+Deployed on Vercel with continuous integration from GitHub.
